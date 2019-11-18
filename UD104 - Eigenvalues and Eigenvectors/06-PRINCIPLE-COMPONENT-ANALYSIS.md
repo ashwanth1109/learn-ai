@@ -4,4 +4,4 @@ This is a tool used in machine learning, also called PCA. When working with mach
 
 PCA is a dimensionality reduction technique to reduce a larger set to a smaller one.
 
-![PCA Dataset](UD104 - Eigenvalues and Eigenvectors/PCA-Dataset.png)
+![PCA Dataset](https://raw.githubusercontent.com/ashwanth1109/learn-ai/master/UD104%20-%20Eigenvalues%20and%20Eigenvectors/PCA-Dataset.png)
